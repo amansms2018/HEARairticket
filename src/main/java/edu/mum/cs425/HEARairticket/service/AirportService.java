@@ -1,6 +1,6 @@
 package edu.mum.cs425.HEARairticket.service;
-import edu.mum.cs5.airTicketbooking.model.Airport;
-import edu.mum.cs5.airTicketbooking.repository.AirportRepository;
+import edu.mum.cs425.HEARairticket.model.Airport;
+import edu.mum.cs425.HEARairticket.repository.AirportRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

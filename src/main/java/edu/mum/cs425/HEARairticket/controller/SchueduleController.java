@@ -1,6 +1,7 @@
 package edu.mum.cs425.HEARairticket.controller;
 
 import edu.mum.cs425.HEARairticket.model.Schuedule;
+import edu.mum.cs425.HEARairticket.repository.AirportRepository;
 import edu.mum.cs425.HEARairticket.service.SchueduleService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
